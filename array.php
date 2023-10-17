@@ -1,6 +1,6 @@
 <?php 
 $title = "Simple Array and Printouts";
-include 'includes/Header.php'?>;
+include 'includes/header.php'?>;
 
 <h1>Simple Arry and Printouts</h1>
 
@@ -22,4 +22,4 @@ $numbers = array(1,2,3,4,5,6,7,8,9,101,2,65,78,4,65,65,68,65,65,667);
  
 
 ?>   
-<?php require 'includes/Footer.php'?>
+<?php require 'includes/footer.php'?>

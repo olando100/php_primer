@@ -1,7 +1,7 @@
 <?php 
 
 $title = "For Loops";
-include 'includes/Header.php'?>;
+include 'includes/header.php'?>;
 
     <h1> For Loops</h1>
 
@@ -24,4 +24,4 @@ include 'includes/Header.php'?>;
 
     ?>
     
-    <?php require 'includes/Footer.php'?>
+    <?php require 'includes/footer.php'?>

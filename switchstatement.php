@@ -1,7 +1,7 @@
 <?php 
 
 $title = "Switch Statement";
-include 'includes/Header.php'?>;
+include 'includes/header.php'?>;
 
 <h1>Switch Statement</h1>
 
@@ -25,4 +25,4 @@ include 'includes/Header.php'?>;
 
 ?>
     
-    <?php require 'includes/Footer.php'?>
+    <?php require 'includes/footer.php'?>

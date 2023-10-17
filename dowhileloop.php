@@ -1,6 +1,6 @@
 <?php 
 $title = "While Loop/Do While Loop";
-include 'includes/Header.php'?>;
+include 'includes/header.php'?>;
 
    <h1>While Loop/Do While Loop </h1> 
 
@@ -25,4 +25,4 @@ include 'includes/Header.php'?>;
       echo 'Exit Loop!';
 
 ?>   
-<?php require 'includes/Footer.php'?>
+<?php require 'includes/footer.php'?>

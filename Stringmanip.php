@@ -1,7 +1,7 @@
 <?php 
 
 $title = "PHP String Manipulation";
-include 'includes/Header.php'?>;
+include 'includes/header.php'?>;
 
     <h1>PHP String Manipulation</h1>
     <?php
@@ -44,4 +44,4 @@ include 'includes/Header.php'?>;
 
 
     ?>
-<?php require 'includes/Footer.php'?>
+<?php require 'includes/footer.php'?>

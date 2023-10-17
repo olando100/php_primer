@@ -1,7 +1,7 @@
 <?php 
 
 $title = "IF-ELSE Statements";
-include 'includes/Header.php'?>;
+include 'includes/header.php'?>;
 
     <h1>IF-ELSE Statements</h1>
 
@@ -46,4 +46,4 @@ if ($grade >= 50) {
 
     ?>
     
-    <?php require 'includes/Footer.php'?>
+    <?php require 'includes/footer.php'?>
